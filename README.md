@@ -5,4 +5,9 @@
 ## Daily Logs
 
 ### Day 1 - 02/26/2024
+- Finished introduciton section, started first.
 - downloaded numpy,python,pandas
+- Learned introduction into KNN, Prediction
+- #csv #python #metplatlib #numpy #pandas
+- #All codes maybe found at ``` https://github.com/zkalykov/harvardxcs109x/file/day1  ```
+- 
