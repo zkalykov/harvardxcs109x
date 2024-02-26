@@ -5,11 +5,4 @@
 ## Daily Logs
 
 ### Day 1 - 02/26/2024
-- Finished section: Introduction
 - downloaded numpy,python,pandas
-- Started Section 1: 'K-NN values'
-  
-'''
-   pip3 install pandas scikit-learn
-  
-'''
