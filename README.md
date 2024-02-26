@@ -4,5 +4,6 @@
 
 ## Daily Logs
 
-### Day 1
+### Day 1 '''02/26/2024'''
 - **Topics Covered**:
+- downloaded numpy,python,pandas
