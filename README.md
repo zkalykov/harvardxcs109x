@@ -1,6 +1,5 @@
 # HarvardX CS109x: Data Science - Course Journal
-
-<img style="background-color:red;" src="https://edx-cdn.org/v3/prod/logo.svg" width="200" height="100" style="border-radius: 10px;">
+<img src="https://edx-cdn.org/v3/prod/logo.svg" width="100" height="auto">
 
 
 ## Daily Logs
