@@ -5,4 +5,6 @@
 ## Daily Logs
 
 ### Day 1 - 02/26/2024
+- Finished section: Introduction
 - downloaded numpy,python,pandas
+- 
