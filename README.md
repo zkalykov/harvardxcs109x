@@ -15,6 +15,6 @@
 - Introduction to Regression
 - Worked with KNN
 - Trained
-- codes at [https://github.com/zkalykov/harvardxcs109x/tree/main/file/Day1](https://github.com/zkalykov/harvardxcs109x/tree/main/file/Day2)
+- codes at [https://github.com/zkalykov/harvardxcs109x/tree/main/file/Day2](https://github.com/zkalykov/harvardxcs109x/tree/main/file/Day2)
 
 
