@@ -11,3 +11,10 @@
 - #csv #python #metplatlib #numpy #pandas
 - All codes maybe found at [https://github.com/zkalykov/harvardxcs109x/tree/main/file/Day1](https://github.com/zkalykov/harvardxcs109x/tree/main/file/Day1)
 
+### Day 2 - 02/27/2024
+- Introduction to Regression
+- Worked with KNN
+- Trained
+- codes at [https://github.com/zkalykov/harvardxcs109x/tree/main/file/Day1](https://github.com/zkalykov/harvardxcs109x/tree/main/file/Day1)
+
+
