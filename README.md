@@ -28,3 +28,7 @@ KNN algorithm in total gives us the value of nearest approriate value according 
   
 - codes at [https://github.com/zkalykov/harvardxcs109x/tree/main/file/Day3](https://github.com/zkalykov/harvardxcs109x/tree/main/file/Day3)
 
+### Day 4 - 02/29/2024
+  - Exercise: Simple kNN Regression
+  - Task 1 optimization
+  - Overall, I need practice more, regardig task 1, I have optimized code, and it gives more correct results, code can be found trough link
