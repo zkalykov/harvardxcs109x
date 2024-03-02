@@ -32,3 +32,10 @@ KNN algorithm in total gives us the value of nearest approriate value according 
   - Exercise: Simple kNN Regression
   - Task 1 optimization
   - Overall, I need practice more, regardig task 1, I have optimized code, and it gives more correct results, code can be found trough link
+
+### Day 5 -02/01/2024
+- Using sklearn package, 
+- x = np.linspace(np.min(x_true), np.max(x_true)) - finds minimum and maximum of x values and will create array of evenly spaced values between them
+- y = np.zeros((len(x))) - fills | 0s
+- Training
+- Practice
