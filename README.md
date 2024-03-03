@@ -66,5 +66,3 @@ KNN algorithm in total gives us the value of nearest approriate value according 
   plt.scatter(x,y,color='red',label='Actual data')
   plt.show()
 ```
-
-
