@@ -43,28 +43,28 @@ KNN algorithm in total gives us the value of nearest approriate value according 
 - Training KNN | Solved task Engine/Sales prediction with simple knn by manuel k=3 .
   ```
   import pandas as pd 
-import matplotlib.pyplot as plt 
-from sklearn.model_selection import train_test_split
-from sklearn.neighbors import KNeighborsRegressor
-df=pd.read_csv('task.csv')
-x=df[['EngineSize']]
-y=df['Price']
-x_train,x_test, y_train,y_test = train_test_split ( x,y,test_size = 0.2, random_state=1 )
-knn = KNeighborsRegressor(n_neighbors=1)
-knn.fit(x_train,y_train)
-#  1 to 30
-x_list=[]
-y_list=[]
-i=1
-while i<=4:
-    j = knn.predict([[i]])
-    x_list.append(i)
-    y_list.append(j)
-    i+=0.5
-plt.plot(x_list,y_list,'-.',color='green',label="predicted for 10")
-
-plt.scatter(x,y,color='red',label='Actual data')
-plt.show()
+  import matplotlib.pyplot as plt 
+  from sklearn.model_selection import train_test_split
+  from sklearn.neighbors import KNeighborsRegressor
+  df=pd.read_csv('task.csv')
+  x=df[['EngineSize']]
+  y=df['Price']
+  x_train,x_test, y_train,y_test = train_test_split ( x,y,test_size = 0.2, random_state=1 )
+  knn = KNeighborsRegressor(n_neighbors=1)
+  knn.fit(x_train,y_train)
+  #  1 to 30
+  x_list=[]
+  y_list=[]
+  i=1
+  while i<=4:
+      j = knn.predict([[i]])
+      x_list.append(i)
+      y_list.append(j)
+      i+=0.5
+  plt.plot(x_list,y_list,'-.',color='green',label="predicted for 10")
+  
+  plt.scatter(x,y,color='red',label='Actual data')
+  plt.show()
 ```
 
 
