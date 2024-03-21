@@ -51,6 +51,5 @@ Solved questions:
 - Scenario: Predicting Loan Approval [ USED: KNN, EUCLIDEAN DISTANCE  ]
 - Scenario: Predicting Customer Churn for a Telecom Company [ USED: KNN, EUCLIDEAN DISTANCE ]
 - Scenario: Predicting House Prices [ USED: LINEAR REGRESSION ]
-- 
-
+- codes && questions can be found here [https://github.com/zkalykov/harvardxcs109x/tree/main/file/Day7](https://github.com/zkalykov/harvardxcs109x/tree/main/file/Day7)
 
