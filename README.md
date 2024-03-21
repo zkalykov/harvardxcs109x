@@ -45,3 +45,12 @@ KNN algorithm in total gives us the value of nearest approriate value according 
 - R square
 - Best value for k
 - Description: learned find best value for K with minimizing MSE. MSE if mean of error y values in absolute.
+
+### Day 7 -03/21/2024
+Solved questions:
+- Scenario: Predicting Loan Approval [ USED: KNN, EUCLIDEAN DISTANCE  ]
+- Scenario: Predicting Customer Churn for a Telecom Company [ USED: KNN, EUCLIDEAN DISTANCE ]
+- Scenario: Predicting House Prices [ USED: LINEAR REGRESSION ]
+- 
+
+
